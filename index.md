@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to VOM: a visual storytelling studio's tiny little space
+
+VOM은 안산을 기반으로 활동하는 실험애니메이션 제작자 입니다. 
+
+2021년 현재 생계를 유지하기 위하여 여러가지 페르소나로 활동을 하고 있습니다.
+몇 가지 소개를 하자면...  
+
 
 You can use the [editor on GitHub](https://github.com/vomthestoryteller/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
