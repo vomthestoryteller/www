@@ -9,8 +9,7 @@ VOM은 안산과 천안을 기반으로 활동하는 실험애니메이션 제�
 ### VOM: a visual storytelling studio를 운영하며 다양한 디자인/애니메이션/모션그래픽 프로젝트를 진행하고 있습니다.
 ### 스튜디오 요나에서 제작하는 작품에 VFX Supervisior로 참여하며 애니메이션 제작에 도움을 주고 있습니다.
 
-[![엄마의 땅 트레일러](https://img.youtube.com/vi/HlxIRqVV44I/0.jpg)]
-(https://www.youtube.com/watch?v=HlxIRqVV44I)
+[![엄마의 땅 트레일러](https://img.youtube.com/vi/HlxIRqVV44I/0.jpg)](https://www.youtube.com/watch?v=HlxIRqVV44I)
 
 
 콘텐츠, 브랜딩, 디자인 제작과 전시, 파사드, 실험 작품 설치와 관련된 문의는 vom.the.storyteller@gmail.com 으로 주시면 답변 드리겠습니다.  
